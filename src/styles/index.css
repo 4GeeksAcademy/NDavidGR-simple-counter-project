@@ -1,4 +1,35 @@
-
+.bigCounter {
+    align-items: center;
+    display: inline;
+    display: flex;
+    justify-content: center;
+    padding-top: 2px;
+    background-color: rgb(34, 34, 34);
+    padding-bottom: 20px;
+} 
+.clock {
+    font-size: 8rem;
+}
+.one {
+    background-color: grey;
+    font-size: 8rem;
+    color: white
+}
+.two {
+    background-color: grey;
+    font-size: 8rem;
+    color: white
+}
+.three {
+    background-color: grey;
+    font-size: 8rem;
+    color: white
+}
+.four {
+    background-color: grey;
+    font-size: 8rem;
+    color: white
+}
 /* 
 
     You can write your own styles here...
